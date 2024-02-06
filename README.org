@@ -1,0 +1,2 @@
+* Dotfile Repo
+My dotfile configurations are being kept in sync across my devices with the help of GNU Stow and Github.
