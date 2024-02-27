@@ -154,6 +154,10 @@ assign [class="Brave-browser"] $ws5
 
 assign [class="Spotify"] $ws10
 
+# Set apps to open on startup
+exec Firefox
+exec Brave-browser
+exec Spotify
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
